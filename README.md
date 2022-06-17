@@ -48,8 +48,6 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 
 
-
-### SIMULATION 
  ![image](https://user-images.githubusercontent.com/94154712/174306187-14a41c8e-d9d8-402d-8cfd-c2421e5d39f9.png)
 ![image](https://user-images.githubusercontent.com/94154712/174306216-826e91dc-04f2-42dc-9b2f-7e3003b2ab2e.png)
 ![image](https://user-images.githubusercontent.com/94154712/174306235-3738d009-1c60-46a5-8ee0-31eccf583adc.png)
